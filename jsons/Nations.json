@@ -35,7 +35,7 @@
 		"uniques": [
 			"[1000] Happiness from each type of luxury resource",
 			"[+25]% [Gold] [in capital] <for every [max([[Great Trade Route]-[Anti Great Trade Route]],0)]>",
-			"[+1000] [Faith]  <for every [max([[Great Trade Route]-[Anti Great Trade Route]],0)]>",
+			"[+1000 Faith]  <for every [max([[Great Trade Route]-[Anti Great Trade Route]],0)]>",
 			"[-1000 Happiness] <for every [Great Trade Route]>",
 			"[+1000 Happiness] <for every [Anti Great Trade Route]>",
 			"Provides [1] [Great Trade Route] <when number of [Happiness] is more than [800]>",
