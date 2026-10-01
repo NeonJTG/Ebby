@@ -5,8 +5,8 @@
 		"uniqueTo": "Aliens",
 		"replaces": "Worker",
 		"movement": 5,
-		//"strength": 90,
+		"strength": 90,
 		"promotions": ["Scouting I"],
-		"uniques": ["Invisible to others", "Can build [Land] improvements on tiles", "Uncapturable", "Automation is a primary action"],
+		"uniques": [/"Invisible to others", /"Can build [Land] improvements on tiles", "Uncapturable", "Automation is a primary action"],
 	}
 ]
