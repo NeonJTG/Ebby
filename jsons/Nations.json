@@ -40,5 +40,36 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+	},
+	{
+		"name": "The Gamers",
+		"leaderName": "Mr Beast",
+		"adjective": ["Gamer"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Montezuma I",
+		
+        "declaringWar": "Get Fucked! LOL",
+		"attacked": "Excellent! Free faith whoohoo",
+		"defeated": "You think you beat me, but actually I secretly beat you, you just haven't noticed it.",
+		"introduction": "Hello there...",
+
+		"neutralHello": "WASSUPPPPPPPPPP",
+		"hateHello": "fuck u btw",
+		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
+
+        "outerColor": [255, 89, 0],
+        "innerColor": [134,238,214],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Murders of Murderers",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]"],
+		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
+			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
+			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
+			"Jilotzingo","Tlapanaloya","Tultitan","Ecatepec","Coatepec","Chalchiuites","Chiauhita","Chapultepec",
+			"Itzapalapa","Ayotzinco","Iztapam"],
+        "spyNames": ["Metztli", "Xitllali", "Chimalli", "Quauhtli", "Teyacapan", "Yaotl", "Coatl", "Huitzilin", "Itzli", "Tepin"]
+
+    }
 ]
