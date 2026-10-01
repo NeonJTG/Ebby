@@ -7,7 +7,7 @@
 		"movement": 3,
 		"strength": 8,
 		"promotions": ["Scouting I", "Survivalism I"],
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+8] Strength <vs [Barbarian] units> <for every ([Great Trade Route] - [Anti Great Trade Route])",
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+10] Strength <for every max(([Great Trade Route] - [Anti Great Trade Route]),0)>",
 		"cost": 70
 	}
 ]
