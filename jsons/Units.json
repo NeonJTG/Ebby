@@ -1,12 +1,13 @@
 [
 	{
-		"name": "Unseen Servant",
+		"name": "Armored Construction Brigade",
 		"unitType": "Civilian",
 		"uniqueTo": "Aliens",
 		"replaces": "Worker",
-		"movement": 5,
-		"strength": 9,
-		"promotions": ["Scouting I"],
-		"uniques": ["Can build [Land] improvements on tiles", "Uncapturable", "Automation is a primary action"],
+		"movement": 3,
+		"strength": 8,
+		"promotions": ["Scouting I", "Survivalism I"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+8] Strength <vs [Barbarian] units> <for every ([Great Trade Route] - [Anti Great Trade Route])",
+		"cost": 70
 	}
 ]
