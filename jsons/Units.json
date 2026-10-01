@@ -7,6 +7,6 @@
 		"movement": 5,
 		"strength": 9,
 		"promotions": ["Scouting I"],
-		"uniques": [Can build [Land] improvements on tiles", "Uncapturable", "Automation is a primary action"],
+		"uniques": ["Can build [Land] improvements on tiles", "Uncapturable", "Automation is a primary action"],
 	}
 ]
