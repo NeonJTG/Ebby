@@ -37,7 +37,7 @@
 			"[+25]% [Gold] [in capital] <for every [Great Trade Route]>",
 			"[-1000 Happiness] <for every [Great Trade Route]>",
 			"Instantly provides [1] [Great Trade Route] <for every [800] [Happiness]>",
-			"Instantly consumes [1] [Great Trade Route] <when number of [Happiness] is less than [800]>",
+			"Instantly consumes [1] [Great Trade Route] <when number of [Happiness] is less than [-800]>",
 			"Units ignore terrain costs when moving into any tile with Hills"
 		],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
