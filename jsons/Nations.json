@@ -33,7 +33,7 @@
 		"innerColor": [255,200,200],
 		"uniqueName": "Consumerism",
 		"uniques": [
-			"[+100 Production] from every [Luxury resource]",
+			"[+100 Gold] from every [Luxury resource]",
 			"Units ignore terrain costs when moving into any tile with Hills"
 		],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
