@@ -1,0 +1,13 @@
+[
+    {
+		"name": "Pathfinder",
+		"uniques": [
+            "[2] Sight",
+            "Can see over obstacles",
+            "[2] Movement",
+            "All tiles cost 1 movement",
+            "Comment [Can return to cities at will]",
+            "May Paradrop to [City center] tiles up to [9999999] tiles away <hidden from users>"
+        ]
+	}
+]

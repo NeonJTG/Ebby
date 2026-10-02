@@ -1,25 +1,41 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"name": "Pathfinders Guild",
+		"uniqueTo": "AAA",
+		"cost": 125,
+		"culture": 3,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"uniques": [
+			"Only available <if [Harbor] is constructed in all [non-[Puppeted]] cities>", 
+			"All newly-trained [non-[Air]] units [in all cities] receive the [Pathfinder] promotion",
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Compass"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Research Bay",
+		"uniqueTo": "AAA",
+		"replaces": "Observatory",
+		"hurryCostModifier": 25,
+		"cost": 120,
+		"maintenance": 0,
+		"uniques": [
+			"[+1 Science, +1 Faith] from [Coast] tiles [in this city]",
+			"[+15]% Production when constructing [Water] units [in this city]",
+			"[+2 Science, +1 Faith] from each Trade Route",
+			"Must be next to [Coast]"],
+		"requiredTech": "Astronomy"
+	},
+	{
+		"name": "Spy School",
+		"uniqueTo": "Thrane",
+		"cost": 125,
+		"culture": 3,
+		"isNationalWonder": true,
+		"uniques": [
+			"Only available <when espionage is enabled>",
+			"New spies start with [1] level(s)",
+			"Promotes all spies [1] time(s)", 
+			"Cost increases by [30] per owned city"],
+		"requiredTech": "Guilds"
 	}
 ]

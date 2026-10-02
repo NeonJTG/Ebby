@@ -1,13 +1,14 @@
 [
 	{
-		"name": "Armored Construction Brigade",
+		"name": "Armored Worker",
 		"unitType": "Civilian",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Thrane",
 		"replaces": "Worker",
 		"movement": 3,
-		"strength": 8,
-		"promotions": ["Scouting I", "Survivalism I"],
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+10] Strength <for every [max([[Great Trade Route]-[Anti Great Trade Route]],0)]>"],
-		"cost": 70,
-	},
+		"strength": 5,
+		"promotions": ["Survivalism I"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+5] Strength <vs [Barbarian] units> <for every [max([[LuxuryCounter]-[AntiLuxuryCounter]],0)]>"],
+		"cost": 70
+	}
+
 ]

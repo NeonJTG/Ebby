@@ -1,8 +1,16 @@
 [
-{
-		"name": "secret tunnel",
+	{
+		"name": "Art academy",
+		"uniqueTo": "Thrane",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 1,
-		"uniques": ["Can be built outside your borders"],
-	},
+		"turnsToBuild": 4,
+		"uniques": [
+			"[+1 Culture] for each adjacent [Mountain]", 
+			"[+1 Culture] for each adjacent [Forest]", 
+			"[+1 Culture] for each adjacent [Landmark]", 
+			"[+1 Culture] for each adjacent [Natural wonder]"
+		],
+		"techRequired": "Philosophy",
+		"shortcutKey": "M"
+	}
 ]
