@@ -1,0 +1,8 @@
+[
+{
+		"name": "secret tunnel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 1,
+		"uniques": ["Can be built outside your borders"],
+	},
+]
