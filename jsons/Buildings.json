@@ -16,6 +16,7 @@
 		"uniqueTo": "AAA",
 		"replaces": "Observatory",
 		"hurryCostModifier": 25,
+		"percentStatBonus": {"science": 15},
 		"cost": 120,
 		"maintenance": 0,
 		"uniques": [

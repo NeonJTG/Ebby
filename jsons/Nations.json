@@ -41,6 +41,7 @@
 			"[-1000 Happiness] <for every [LuxuryCounter]> <hidden from users>",
 			"[+1000 Happiness] <for every [AntiLuxuryCounter]> <hidden from users>",
 			"Provides [1] [LuxuryCounter] <when number of [Happiness] is more than [800]> <hidden from users>",
+			"May buy [Wonder] buildings with [Culture] [in capital]",
 			"Provides [1] [AntiLuxuryCounter] <when number of [Happiness] is less than [-800]> <hidden from users>"
 		],
 		"cities": ["Rename me","Rename me too","Rename me also","and don't forget to rename me"],
@@ -72,10 +73,8 @@
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]", 
 					"Earn [100]% of killed [Military] unit's [Strength] as [Faith]", 
 					"Gain control over [4] tiles [in this city] <upon founding a city>",
-					"[-22]% Culture cost of natural border growth [in all cities]",
 					"Can build [All Road] improvements at a [+200]% rate",
 					"[-100]% maintenance on road & railroads",
-					"Reveal up to [99999] [Ice] within a [999] tile radius <hidden from users>"
 				],
 		"cities": ["Capital","one nothing wrong with me","two nothing wrong with me","three","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
