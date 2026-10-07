@@ -9,6 +9,16 @@
 		"promotions": ["Survivalism I"],
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "[+5] Strength <vs [Barbarian] units> <for every [max([[LuxuryCounter]-[AntiLuxuryCounter]],0)]>"],
 		"cost": 70
+	},
+	{
+		"name": "Escapades",
+		"unitType": "Civilian",
+		"uniqueTo": "AAA",
+		"replaces": "Worker",
+		"movement": 30,
+		"promotions": ["Survivalism I"],
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Can instantly construct a [Base] improvement <requires [1] movement>", "Can instantly construct a [Road] improvement", "Gain control over [All] tiles in a [0]-tile radius <upon ending a turn in a [Base] tile>"],
+		"cost": 1
 	}
 
 ]

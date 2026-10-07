@@ -1,0 +1,15 @@
+
+	{
+		"name": "THE MOON",
+		"unitType": "Helicopter",
+		"uniqueTo": "AAA",
+		"replaces": "Warrior",
+		"movement": 6,
+		"strength": 4444,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"uniques": ["Unbuildable", "Limited to [1] per Civilization", "Unable to capture cities", "Never appears as a Barbarian unit", 
+		"All tiles cost 1 movement", "Can see over obstacles", "[4] Sight", "Blast radius [2]", "May travel on Water tiles without embarking", "[This Unit] gains [2] XP <every [1] turns>",
+		"Can be purchased for [300] [Faith] [in all cities]"],
+		"attackSound": "nonmetalhit"
+	}

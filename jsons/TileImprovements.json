@@ -12,5 +12,17 @@
 		],
 		"techRequired": "Philosophy",
 		"shortcutKey": "M"
+	},
+	{
+		"name": "Base",
+		"uniqueTo": "AAA",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 0,
+		"uniques": [
+			"[6] Sight", 
+			"Can be built outside your borders",
+			"Provides a random bonus when entered"
+		],
+		"shortcutKey": "M"
 	}
 ]
