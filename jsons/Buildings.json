@@ -1,30 +1,15 @@
 [
 	{
-		"name": "Pathfinders Guild",
+		"name": "Mercenary place",
+		"replaces": "Armory",
 		"uniqueTo": "AAA",
-		"cost": 125,
-		"culture": 3,
-		"isNationalWonder": true,
-		"uniques": [
-			"Only available <if [Harbor] is constructed in all [non-[Puppeted]] cities>", 
-			"All newly-trained [non-[Air]] units [in all cities] receive the [Pathfinder] promotion",
-			"Cost increases by [30] per owned city"],
-		"requiredTech": "Compass"
-	},
-	{
-		"name": "Research Bay",
-		"uniqueTo": "AAA",
-		"replaces": "Observatory",
 		"hurryCostModifier": 25,
-		"percentStatBonus": {"science": 15},
-		"cost": 120,
 		"maintenance": 0,
 		"uniques": [
-			"[+1 Science, +1 Faith] from [Coast] tiles [in this city]",
-			"[+15]% Production when constructing [Water] units [in this city]",
-			"[+2 Science, +1 Faith] from each Trade Route",
-			"Must be next to [Coast]"],
-		"requiredTech": "Astronomy"
+			"[1] units cost no maintenance",
+			"Free [Landsknecht] appears",
+			"New [Military] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
 	},
 	{
 		"name": "Spy School",

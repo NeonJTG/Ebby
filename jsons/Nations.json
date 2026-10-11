@@ -6,34 +6,35 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
-		//"startIntroPart1": "We come in peace!",
-		//"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		//"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		//"attacked": "You want to play? Very funny!",
-		//"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		//"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		//"neutralHello": "How are you doing?",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		//"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		//"tradeRequest": "We bestow you the honor of this trade offer.",
-		//"denounced": "The accusations of primitive lifeforms are beneath us.",
-		//"declaringfriendship": "Let us become like friends!",
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"denounced": "The accusations of primitive lifeforms are beneath us.",
+		"declaringfriendship": "Let us become like friends!",
 
 		"outerColor": [35, 65, 82],
 		"innerColor": [248, 236, 218],
 		"uniqueName": "Consumerism",
 		"uniques": [
 			"Comment [[+25]% [Gold] [in capital] for each type of [Luxury resource]]",
+			"May buy [Wonder] buildings with [Culture] [in capital]",
 			"Gain an extra spy <upon entering the [Medieval era]>",
 
 			"[1000] Happiness from each type of luxury resource <hidden from users>",
@@ -41,7 +42,6 @@
 			"[-1000 Happiness] <for every [LuxuryCounter]> <hidden from users>",
 			"[+1000 Happiness] <for every [AntiLuxuryCounter]> <hidden from users>",
 			"Provides [1] [LuxuryCounter] <when number of [Happiness] is more than [800]> <hidden from users>",
-			"May buy [Wonder] buildings with [Culture] [in capital]",
 			"Provides [1] [AntiLuxuryCounter] <when number of [Happiness] is less than [-800]> <hidden from users>"
 		],
 		"cities": ["Rename me","Rename me too","Rename me also","and don't forget to rename me"],
@@ -49,19 +49,20 @@
 	},
 	{
 		"name": "AAA",
-		"leaderName": "Venn",
+		"leaderName": "People",
 		"adjective": ["Gamer"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
 		
-        "declaringWar": "Get Fucked! LOL",
-		"attacked": "Excellent! Free faith whoohoo",
+        "declaringWar": "This might hurt a little.",
+		"attacked": "Only fight the battles you know you can win.",
 		"defeated": "You think you beat me, but actually I secretly beat you, you just haven't noticed it.",
-		"introduction": "Hello there...",
+		"introduction": "Thousand greetings! We hope this is the beginning of a thrilling game of skill. May the oceans favor us all.",
 
 		"neutralHello": "WASSUPPPPPPPPPP",
 		"hateHello": "fuck u btw",
+
 		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
 
         "outerColor": [255, 89, 0],
@@ -70,11 +71,17 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Oh, no wonder!",
 		"uniques": ["[-99]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
+					"Gain control over [2] tiles [in all cities] <upon founding a city>",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]", 
-					"Earn [100]% of killed [Military] unit's [Strength] as [Faith]", 
-					"Gain control over [4] tiles [in this city] <upon founding a city>",
-					"Can build [All Road] improvements at a [+200]% rate",
-					"[-100]% maintenance on road & railroads",
+
+					"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", 
+					"Enables [All] units to enter ocean tiles <starting from the [Medieval era]>",
+					"[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>",
+					"[1] Movement point cost to embark <for [All] units> <hidden from users>", "[1] Movement point cost to disembark <for [All] units> <hidden from users>",
+					
+					"[+15]% Strength <within [2] tiles of a [Coast]>",
+
+					"All newly-trained [non-[Air]] units [in all cities] receive the [covert] promotion <hidden from users>"
 				],
 		"cities": ["Capital","one nothing wrong with me","two nothing wrong with me","three","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",

@@ -11,14 +11,24 @@
 		"cost": 70
 	},
 	{
-		"name": "Escapades",
+		"name": "Covert Operator",
 		"unitType": "Civilian",
 		"uniqueTo": "AAA",
-		"replaces": "Worker",
-		"movement": 30,
-		"promotions": ["Survivalism I"],
-		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action", "Can instantly construct a [Base] improvement <requires [1] movement>", "Can instantly construct a [Road] improvement", "Gain control over [All] tiles in a [0]-tile radius <upon ending a turn in a [Base] tile>"],
-		"cost": 1
+		"replaces": "Great General",
+		"uniques": [
+			"Comment [Adjacent units are invisible to non-adjacent units]",
+			"Invisible to non-adjacent units",
+			"Comment [Adjacent units gain 1 movement]",
+			"Comment [Adjacent units can enter foreign tiles without open borders]",
+			"May enter foreign tiles without open borders",
+            "[+15]% Strength bonus for [Military] units within [1] tiles",
+			"All adjacent units heal [+15] HP when healing",
+            "Can see over obstacles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat",
+            "Is part of Great Person group [General]",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 3
 	}
 
 ]
