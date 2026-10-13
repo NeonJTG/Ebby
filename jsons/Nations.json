@@ -48,20 +48,20 @@
 		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch 1", "Scheming eunuch 2", "That cardinal DUI killed that one time"]
 	},
 	{
-		"name": "AAA",
+		"name": "The 4 Cities",
 		"leaderName": "People",
-		"adjective": ["Gamer"],
-		"startBias": ["Coast"],
+		"adjective": ["4 City"],
+		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
 		
-        "declaringWar": "This might hurt a little.",
+        "declaringWar": "This might hurt you a little.",
 		"attacked": "Only fight the battles you know you can win.",
 		"defeated": "You think you beat me, but actually I secretly beat you, you just haven't noticed it.",
 		"introduction": "Thousand greetings! We hope this is the beginning of a thrilling game of skill. May the oceans favor us all.",
 
-		"neutralHello": "WASSUPPPPPPPPPP",
-		"hateHello": "fuck u btw",
+		"neutralHello": "Heyo, what is it today?",
+		"hateHello": "Haven't you had enough?",
 
 		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
 
@@ -69,7 +69,7 @@
         "innerColor": [134,238,214],
 
 		"favoredReligion": "Christianity",
-		"uniqueName": "Oh, no wonder!",
+		"uniqueName": "Go where I want to go, do what I want to do",
 		"uniques": ["[-99]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
 					"Gain control over [2] tiles [in all cities] <upon founding a city>",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]", 
@@ -77,11 +77,11 @@
 					"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", 
 					"Enables [All] units to enter ocean tiles <starting from the [Medieval era]>",
 					"[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>",
-					"[1] Movement point cost to embark <for [All] units> <hidden from users>", "[1] Movement point cost to disembark <for [All] units> <hidden from users>",
+					"[1] Movement point cost to disembark <for [All] units>",
 					
 					"[+15]% Strength <within [2] tiles of a [Coast]>",
 
-					"All newly-trained [non-[Air]] units [in all cities] receive the [covert] promotion <hidden from users>"
+					"[non-[Air]] units gain the [covert] promotion <hidden from users>"
 				],
 		"cities": ["Capital","one nothing wrong with me","two nothing wrong with me","three","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",

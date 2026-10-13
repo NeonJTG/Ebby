@@ -1,15 +1,18 @@
 [
 	{
-		"name": "Mercenary place",
+		"name": "Anarchist Movement",
 		"replaces": "Armory",
-		"uniqueTo": "AAA",
+		"uniqueTo": "The 4 Cities",
 		"hurryCostModifier": 25,
 		"maintenance": 0,
+		"food": 6,
 		"uniques": [
 			"[1] units cost no maintenance",
-			"Free [Landsknecht] appears",
+			"Free [Pikeman] appears",
+			"[3] population [in this city]",
+			"[-20]% Unhappiness from [Population] [in this city]",
 			"New [Military] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
-		"requiredTech": "Steel"
+		"requiredTech": "Civil Service"
 	},
 	{
 		"name": "Spy School",

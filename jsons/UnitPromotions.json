@@ -2,12 +2,10 @@
     {
 		"name": "covert",
 		"uniques": [
-            "[1] Movement <when adjacent to a [Covert Operator] unit>",
-            "Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>",
-            "May enter foreign tiles without open borders <when adjacent to a [Covert Operator] unit>",
-            "[1] Movement <when stacked with a [Covert Operator] unit>",
-            "Invisible to non-adjacent units <when stacked with a [Covert Operator] unit>",
-            "May enter foreign tiles without open borders <when stacked with a [Covert Operator] unit>"
+      "[2] Movement <when stacked with a [Covert Operator] unit>",
+      "Invisible to non-adjacent units <when stacked with a [Covert Operator] unit>",
+	    "[2] Movement <when adjacent to a [Covert Operator] unit>",
+	    "Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>"
         ]
 	}
 ]

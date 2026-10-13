@@ -13,3 +13,8 @@
 		"Can be purchased for [300] [Faith] [in all cities]"],
 		"attackSound": "nonmetalhit"
 	}
+
+	//cover operator AOE code
+	"[1] Movement <when adjacent to a [Covert Operator] unit>",
+	"Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>",
+	"May enter foreign tiles without open borders <when adjacent to a [Covert Operator] unit>",
