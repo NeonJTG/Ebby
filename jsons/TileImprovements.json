@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Art Academy",
-		"uniqueTo": "Thrane",
+		"uniqueTo": "Deltarune",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
 		"uniques": [

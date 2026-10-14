@@ -1,0 +1,11 @@
+
+		
+        "declaringWar": "This might hurt you a little.",
+		"attacked": "Only fight the battles you know you can win.",
+		"defeated": "You think you beat us, but actually we secretly beat you, you just haven't noticed it.",
+		"introduction": "Thousand greetings! We hope this is the beginning of a thrilling game of skill. May the oceans favor us all.",
+
+		"neutralHello": "Heyo, what is it today?",
+		"hateHello": "Haven't you had enough?",
+
+		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
