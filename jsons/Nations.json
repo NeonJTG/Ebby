@@ -1,33 +1,21 @@
 [
 	{
-		"name": "Thrane",
-		"leaderName": "Jaela",
+		"name": "Deltarune",
+		"leaderName": "Spamton G. Spamton",
 		"adjective": ["Thrane"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"declaringWar": "THIS demon wants the BLOOD of SOLDIERSSSSS!",
+		"attacked": "DAMN! Did NOT know we had BEEF like THAT.",
+		"defeated": "It's over. It's so over. I declared WAR on this nation, and would never guess what next. (GONE WRONG).(GONE HISTORICAL).",
+		"introduction": "HELLO. Let's make FRIENDS in this WORLD.",
 
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"neutralHello": "HELLO.",
+		"hateHello": "What do YOU want?!",
+
+		"tradeRequest": "TODAY I am EXPRESSING my GENEROSITY by trading with the likes of YOU.",
+
 
 		"outerColor": [35, 65, 82],
 		"innerColor": [248, 236, 218],
@@ -44,8 +32,8 @@
 			"Provides [1] [LuxuryCounter] <when number of [Happiness] is more than [800]> <hidden from users>",
 			"Provides [1] [AntiLuxuryCounter] <when number of [Happiness] is less than [-800]> <hidden from users>"
 		],
-		"cities": ["Rename me","Rename me too","Rename me also","and don't forget to rename me"],
-		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch 1", "Scheming eunuch 2", "That cardinal DUI killed that one time"]
+		"cities": ["Rename me"],
+		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch 1", "Scheming eunuch 2", "That cardinal we killed that one time", "Penny", "Lude"]
 	},
 	{
 		"name": "The 4 Cities",
@@ -54,19 +42,20 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
-		
-        "declaringWar": "This might hurt you a little.",
-		"attacked": "Only fight the battles you know you can win.",
-		"defeated": "You think you beat me, but actually I secretly beat you, you just haven't noticed it.",
-		"introduction": "Thousand greetings! We hope this is the beginning of a thrilling game of skill. May the oceans favor us all.",
 
-		"neutralHello": "Heyo, what is it today?",
-		"hateHello": "Haven't you had enough?",
+		"declaringWar": "BLOOD FOR THE BLOOD GOD!",
+		"attacked": "ayo?",
+		"defeated": "Im kms actually over this",
+		"introduction": "Is this the real life? is this just fantasy? caught in a landslide no escape from reality.",
+
+		"neutralHello": "Nver kys, life is awesime <3",
+		"hateHello": "kys actually",
 
 		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
 
-        "outerColor": [255, 89, 0],
-        "innerColor": [134,238,214],
+
+        "outerColor": [0, 110, 144],
+        "innerColor": [241, 143, 1],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Go where I want to go, do what I want to do",
@@ -83,12 +72,8 @@
 
 					"[non-[Air]] units gain the [covert] promotion <hidden from users>"
 				],
-		"cities": ["Capital","one nothing wrong with me","two nothing wrong with me","three","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
-			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
-			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
-			"Jilotzingo","Tlapanaloya","Tultitan","Ecatepec","Coatepec","Chalchiuites","Chiauhita","Chapultepec",
-			"Itzapalapa","Ayotzinco","Iztapam"],
-        "spyNames": ["Metztli", "Xitllali", "Chimalli", "Quauhtli", "Teyacapan", "Yaotl", "Coatl", "Huitzilin", "Itzli", "Tepin"]
+		"cities": ["Capital"],
+        "spyNames": ["One", "Two", "Three", "Four", "Kiki", "Mr. Breast", "Dog", "Sam", "Secret Dog", "Once per week 6 hour dog"]
 
     }
 ]

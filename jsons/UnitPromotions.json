@@ -2,10 +2,11 @@
     {
 		"name": "covert",
 		"uniques": [
-      "[2] Movement <when stacked with a [Covert Operator] unit>",
-      "Invisible to non-adjacent units <when stacked with a [Covert Operator] unit>",
-	    "[2] Movement <when adjacent to a [Covert Operator] unit>",
-	    "Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>"
+      		"[2] Movement <when stacked with a [Covert Operator] unit>",
+      		"Invisible to non-adjacent units <when stacked with a [Covert Operator] unit>",
+	    	"[2] Movement <when adjacent to a [Covert Operator] unit>",
+	    	"Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>",
+			"[+15] HP when healing <when stacked with a [Covert Operator] unit>"
         ]
 	}
 ]

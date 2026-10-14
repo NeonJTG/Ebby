@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Art academy",
+		"name": "Art Academy",
 		"uniqueTo": "Thrane",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,

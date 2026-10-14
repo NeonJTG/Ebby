@@ -18,3 +18,5 @@
 	"[1] Movement <when adjacent to a [Covert Operator] unit>",
 	"Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>",
 	"May enter foreign tiles without open borders <when adjacent to a [Covert Operator] unit>",
+	//CO stacked code
+	"May enter foreign tiles without open borders <when stacked with a [Covert Operator] unit>"
