@@ -11,25 +11,15 @@
 		"cost": 70
 	},
 	{
-		"name": "Covert Operator",
-		"unitType": "Civilian",
+		"name": "Trailblazer",
 		"uniqueTo": "The 4 Cities",
-		"replaces": "Great General",
-		"uniques": [
-			"[1] Sight",
-			"[2] Movement",
-			"Comment [Adjacent units are invisible to non-adjacent units]",
-			"Invisible to non-adjacent units",
-			"Comment [Adjacent units gain 2 movement]",
-            "[+25]% Strength bonus for [Military] units within [1] tiles",
-			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing",
-            "Can see over obstacles",
-
-            "Can instantly construct a [Citadel] improvement <once>",
-			"Can be earned through combat",
-            "Is part of Great Person group [General]",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 4,
+		"strength": 5,
+		"cost": 25,
+		"uniques": ["Never appears as a Barbarian unit", "Founds a new city <once>"],
+		"promotions": ["Ignore terrain cost", "Survivalism I"],
+		"attackSound": "nonmetalhit"
 	}
-
 ]

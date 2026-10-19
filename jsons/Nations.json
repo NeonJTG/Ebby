@@ -63,6 +63,11 @@
 					"Gain control over [2] tiles [in all cities] <upon founding a city>",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]", 
 
+
+					"Cannot build [Settler] units",
+					"May not annex cities",
+					"[3] free [Scout] units appear",
+
 					"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", 
 					"Enables [All] units to enter ocean tiles <starting from the [Medieval era]>",
 					"[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>",
