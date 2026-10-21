@@ -1,12 +1,62 @@
 [
-    {
-		"name": "covert",
+    
+	{
+		"name": "Sorcerous",
 		"uniques": [
-      		"[2] Movement <when stacked with a [Covert Operator] unit>",
-      		"Invisible to non-adjacent units <when stacked with a [Covert Operator] unit>",
-	    	"[2] Movement <when adjacent to a [Covert Operator] unit>",
-	    	"Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>",
-			"[+15] HP when healing <when stacked with a [Covert Operator] unit>"
+      		"May Paradrop to [Academy] tiles up to [9999] tiles away <in [Academy] tiles>"
+        ]
+	},
+	{
+		"name": "HASTE",
+		"uniques": [
+      		"[This Unit] gains the [Hastened] status for [5] turn(s)",
+			"[This Unit] loses the [HASTE] promotion"
+        ]
+	},
+	{
+		"name": "INVISIBILITY",
+		"uniques": [
+      		"[This Unit] gains the [Invisible] status for [5] turn(s)",
+			"[This Unit] loses the [INVISIBILITY] promotion"
+        ]
+	},
+	{
+		"name": "GUIDANCE",
+		"uniques": [
+      		"[This Unit] gains [35] XP",
+			"[This Unit] gains the [Sentry] status for [15] turn(s)",
+			"[This Unit] loses the [GUIDANCE] promotion"
+        ]
+	},
+	{
+		"name": "GUIDANCEAIR",
+		"uniques": [
+      		"[This Unit] gains [35] XP",
+			"[This Unit] loses the [GUIDANCEAIR] promotion"
+        ]
+	},
+	{
+		"name": "HEAL",
+		"uniques": [
+			"[This Unit] gains the [Suppy] status for [15] turn(s)",
+			"[This Unit] gains the [March] status for [15] turn(s)",
+			"[This Unit] gains the [Survivalism I] status for [15] turn(s)",
+			"[This Unit] loses the [HEAL] promotion"
+        ]
+	},
+	{
+		"name": "Hastened",
+		"uniques": [
+      		"[1] Movement",
+			"[1] additional attacks per turn",
+			"Can move after attacking"
+        ]
+	},
+	{
+		"name": "Invisible",
+		"uniques": [
+      		"Invisible to others",
+			"May enter foreign tiles without open borders"
         ]
 	}
 ]

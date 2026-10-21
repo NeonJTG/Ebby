@@ -43,3 +43,41 @@
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 2
 	}
+{
+		"name": "Anarchist Movement",
+		"replaces": "Armory",
+		"uniqueTo": "The 4 Cities",
+		"hurryCostModifier": 25,
+		"maintenance": 0,
+		"food": 6,
+		"uniques": [
+			"[1] units cost no maintenance",
+			"Free [Pikeman] appears",
+			"[3] population [in this city]",
+			"[-15]% Unhappiness from [Population] [in this city]",
+			"New [Military] units start with [30] XP [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Civil Service"
+	},
+	
+	{
+		"name": "Trailblazer",
+		"uniqueTo": "The 4 Cities",
+		"replaces": "Scout",
+		"unitType": "Scout",
+		"movement": 4,
+		"strength": 5,
+		"cost": 25,
+		"uniques": ["Never appears as a Barbarian unit", "Founds a new city <once>"],
+		"promotions": ["Ignore terrain cost", "Survivalism I"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "covert",
+		"uniques": [
+      		"[2] Movement <when stacked with a [Covert Operator] unit>",
+      		"Invisible to non-adjacent units <when stacked with a [Covert Operator] unit>",
+	    	"[2] Movement <when adjacent to a [Covert Operator] unit>",
+	    	"Invisible to non-adjacent units <when adjacent to a [Covert Operator] unit>",
+			"[+15] HP when healing <when stacked with a [Covert Operator] unit>"
+        ]
+	}

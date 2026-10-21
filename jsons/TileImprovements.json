@@ -8,7 +8,7 @@
 			"[+1 Culture] for each adjacent [Mountain]", 
 			"[+1 Culture] for each adjacent [Forest]", 
 			"[+1 Culture] for each adjacent [Landmark]", 
-			"[+1 Culture] for each adjacent [Natural wonder]"
+			"[+1 Culture] for each adjacent [Natural Wonder]"
 		],
 		"techRequired": "Philosophy",
 		"shortcutKey": "M"

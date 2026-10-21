@@ -1,0 +1,34 @@
+[
+    {
+        "name":"Sorcery",
+		 	  "text":"Shadow Wizard Money Gang! We love casting spells",
+        "choices":[
+        {
+          "text": "Plant Growth",
+          "uniques": [
+            "[+1 Food, +1 Production] from [Farm] tiles [in all cities] <for [10] turns>",
+            "[+5]% [Food] [in all cities] <for [10] turns>",
+            "[+5]% [Production] [in all cities] <for [10] turns>"
+        ]
+        },
+        {
+          "text": "Invisibility",
+          "uniques": ["[non-[Air]] units gain the [INVISIBILITY] promotion"]
+        },
+        {
+          "text": "Guidance",
+          "uniques": ["[non-[Air]] units gain the [GUIDANCE] promotion", "[Air] units gain the [GUIDANCEAIR] promotion"]
+        },
+        {
+          "text": "Haste",
+          "uniques": ["[non-[Air]] units gain the [HASTE] promotion"]
+        },
+        {
+          "text": "Mass Healing Word",
+          "uniques": [
+            "[All] units gain the [HEAL] promotion"
+        ]
+        }
+      ]
+    }
+]
