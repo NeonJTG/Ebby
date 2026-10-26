@@ -3,7 +3,8 @@
 	{
 		"name": "Sorcerous",
 		"uniques": [
-      		"May Paradrop to [Academy] tiles up to [9999] tiles away <in [Academy] tiles>"
+      		"May Paradrop to [Academy] tiles up to [9999] tiles away <in [Academy] tiles>",
+			"[This Unit] gains [10] XP <when attacking>"
         ]
 	},
 	{
@@ -38,7 +39,7 @@
 	{
 		"name": "HEAL",
 		"uniques": [
-			"[This Unit] gains the [Suppy] status for [15] turn(s)",
+			"[This Unit] gains the [Supply] status for [15] turn(s)",
 			"[This Unit] gains the [March] status for [15] turn(s)",
 			"[This Unit] gains the [Survivalism I] status for [15] turn(s)",
 			"[This Unit] loses the [HEAL] promotion"

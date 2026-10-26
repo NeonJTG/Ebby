@@ -73,7 +73,7 @@
 					"[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>",
 					"[1] Movement point cost to disembark <for [All] units>",
 //todo make this an early burst
-					//"[non-[Air]] units gain the [covert] promotion <hidden from users>"
+					"[non-[Air]] units gain the [Sorcerous] promotion <hidden from users>"
 				],
 
 		"cities": ["Capital"],
