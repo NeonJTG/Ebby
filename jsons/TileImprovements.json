@@ -12,5 +12,20 @@
 		],
 		"techRequired": "Philosophy",
 		"shortcutKey": "M"
+	},
+	{
+		"name": "Old Growth Forest",
+		"uniqueTo": "The 4 Cities",
+		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
+		"food": 1,
+		"turnsToBuild": 1,
+		"uniques": [
+			"[+1 Production]", 
+			"[+1 Food] <with [1] to [6] neighboring [Old Growth Forest] tiles>",
+			"[+1 Production, +1 Science] <after discovering [Scientific Theory]> <in [Forest] tiles>",
+			"[+1 Gold, +1 Science] <after adopting [Free Thought]> <in [Jungle] tiles>",
+			"[+1 Food, +1 Production, +1 Happiness] <after turn number [50]>"
+		],
+		"shortcutKey": "M"
 	}
 ]

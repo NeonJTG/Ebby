@@ -81,3 +81,66 @@
 			"[+15] HP when healing <when stacked with a [Covert Operator] unit>"
         ]
 	}
+
+
+
+
+	ENTIRE FOUR CITIES BAY BAY
+
+	{
+		"name": "The 4 Cities",
+		"leaderName": "People",
+		"adjective": ["4 City"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		"personality": "Montezuma I",
+
+		"declaringWar": "BLOOD FOR THE BLOOD GOD!",
+		"attacked": "ayo?",
+		"defeated": "Im kms actually over this",
+		"introduction": "Is this the real life? is this just fantasy? caught in a landslide no escape from reality.",
+
+		"neutralHello": "Nver kys, life is awesime <3",
+		"hateHello": "kys actually",
+
+		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
+
+
+        "outerColor": [0, 110, 144],
+        "innerColor": [241, 143, 1],
+
+		"favoredReligion": "Christianity",
+
+		"uniqueName": "Go where I want to go, do what I want to do",
+		"uniques": ["[-99]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
+					"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
+					"Notified of new Barbarian encampments",
+					"Provides a [Scientist Point] in your first [1] cities for free",
+					"Free [Great Scientist] appears <upon founding a city> <when number of [Cities] is between [1] and [1]>",
+					"Free [Great Scientist] appears <upon founding a city> <when number of [Cities] is between [1] and [1]>",
+//change this dont forget lol
+
+					"Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>", 
+					"Enables [All] units to enter ocean tiles <starting from the [Medieval era]>",
+					"[+1] Sight <for [Embarked] units>", "[+1] Movement <for [Embarked] units>",
+					"[1] Movement point cost to disembark <for [All] units>",
+//todo make this an early burst
+					"[non-[Air]] units gain the [Sorcerous] promotion <hidden from users>"
+				],
+
+		"cities": ["Capital"],
+        "spyNames": ["One", "Two", "Three", "Four", "Kiki", "Mr. Breast", "Dog", "Sam", "Secret Dog", "Once per week 6 hour dog"]
+
+    }
+
+	"name": "Wizard",
+		"uniqueTo": "The 4 Cities",
+		"replaces": "Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+			"Triggers a [Sorcery] event <[3] times> <after which this unit is consumed>",
+            "Can instantly construct a [Academy] improvement <by consuming this unit>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Scientist] group",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"movement": 2

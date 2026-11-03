@@ -11,16 +11,24 @@
 		"cost": 70
 	},
 	{
-		"name": "Wizard",
+		"name": "Forester",
+		"unitType": "Scout",
 		"uniqueTo": "The 4 Cities",
-		"replaces": "Great Scientist",
-		"unitType": "Civilian",
-		"uniques": [
-			"Triggers a [Sorcery] event <[3] times> <after which this unit is consumed>",
-            "Can instantly construct a [Academy] improvement <by consuming this unit>",
-            "Is part of Great Person group [Great Person]",
-            "[This Unit] gets a name from the [Scientist] group",
-            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
-		"movement": 2
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 45,
+		"requiredTech": "Agriculture",
+		"uniques": 
+		[
+			"Never appears as a Barbarian unit",
+			"May enter foreign tiles without open borders",
+			"Can pass through impassable tiles",
+			"Turn this tile into a [Jungle] tile <[3] times>",
+			"Turn this tile into a [Forest] tile <[3] times>"
+		],
+		"promotions": ["Scouting I"],
+		"attackSound": "nonmetalhit"
 	}
+	
 ]
