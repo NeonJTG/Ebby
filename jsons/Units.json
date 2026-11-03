@@ -23,9 +23,7 @@
 		[
 			"Never appears as a Barbarian unit",
 			"May enter foreign tiles without open borders",
-			"Can pass through impassable tiles",
-			"Turn this tile into a [Jungle] tile <[3] times>",
-			"Turn this tile into a [Forest] tile <[3] times>"
+			"Can pass through impassable tiles"
 		],
 		"promotions": ["Scouting I"],
 		"attackSound": "nonmetalhit"

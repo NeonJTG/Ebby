@@ -63,9 +63,11 @@
 		"uniques": ["[-99]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
 					"Notified of new Barbarian encampments",
-					"Gain control over [8] tiles [in this city] <upon founding a city>",
+					"Gain control over [Forest] tiles in a [3]-tile radius <upon founding a city>",
+					"Gain control over [Jungle] tiles in a [3]-tile radius <upon founding a city>",
 					"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
-					"[non-[Air]] units gain the [4cities special ability] promotion <hidden from users>"
+					"[non-[Air]] units gain the [4cities special ability] promotion <hidden from users>",
+					"Instantly provides [1] [Weed] <every [10] turns>"
 				],
 
 		"cities": ["Capital"],

@@ -10,5 +10,10 @@
 		"name": "AntiLuxuryCounter",
 		"resourceType": "Strategic",
 		"uniques": ["Cannot be traded", "Stockpiled", "Not shown on world screen", "Excluded from map editor", "Doesn't generate naturally"]
+	},
+	{
+		"name":"Weed",
+		"resourceType": "Luxury",
+		"uniques": ["Stockpiled", "Doesn't generate naturally"]
 	}
 ]
