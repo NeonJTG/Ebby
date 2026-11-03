@@ -54,8 +54,8 @@
 		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
 
 
-        "outerColor": [0, 110, 144],
-        "innerColor": [241, 143, 1],
+        "outerColor": [155, 229, 100],
+        "innerColor": [56, 56, 56],
 
 		"favoredReligion": "Christianity",
 
