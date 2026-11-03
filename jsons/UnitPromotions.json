@@ -63,7 +63,7 @@
 	{
 		"name": "4cities special ability",
 		"uniques": [
-      		"Invisible to others <in [Forest] tiles>", "Invisible to others <in [Jungle] tiles>",
+      		"Invisible to non-adjacent units <in [Forest] tiles>", "Invisible to non-adjacent units <in [Jungle] tiles>",
 			"Double movement in [Forest]", "Double movement in [Jungle]",
 			"[+33]% Strength <when fighting in [Forest] tiles>", "[+33]% Strength <when fighting in [Jungle] tiles>",
 			"May enter foreign tiles without open borders",
