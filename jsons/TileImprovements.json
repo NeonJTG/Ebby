@@ -15,7 +15,7 @@
 	},
 	{
 		"name": "Old Growth Forest",
-		"uniqueTo": "The 4 Cities",
+		"uniqueTo": "The Trees",
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"food": 1,
 		"turnsToBuild": 10,
