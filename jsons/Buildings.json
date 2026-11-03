@@ -17,6 +17,7 @@
 		"uniqueTo": "The Trees",
 		"uniques": [
 			"[non-[Air]] units gain the [Spores] promotion <hidden from users>"
-		]
+		],
+		"requiredTech": "Agriculture"
 	}
 ]

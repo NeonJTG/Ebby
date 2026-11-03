@@ -13,7 +13,6 @@
 	{
 		"name": "Spores",
 		"uniques": [
-			"Turn this tile into a [Jungle] tile <costs [2] [Weed]> <with [1] priority>",
 			"Turn this tile into a [Forest] tile <costs [1] [Weed]> <with [1] priority>"
         ]
 	}
