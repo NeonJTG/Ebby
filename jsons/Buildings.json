@@ -11,5 +11,12 @@
 			"Promotes all spies [1] time(s)", 
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Guilds"
+	},
+	{
+		"name": "Spores of the forest",
+		"uniqueTo": "The Trees",
+		"uniques": [
+			"[non-[Air]] units gain the [Spores] promotion <hidden from users>"
+		]
 	}
 ]

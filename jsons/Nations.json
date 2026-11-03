@@ -36,9 +36,9 @@
 		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch 1", "Scheming eunuch 2", "That cardinal we killed that one time", "Penny", "Lude"]
 	},
 	{
-		"name": "The 4 Cities",
+		"name": "The Trees",
 		"leaderName": "Wise Old Oak",
-		"adjective": ["4 City"],
+		"adjective": ["arboreal"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
@@ -66,9 +66,10 @@
 					"Gain control over [Forest] tiles in a [3]-tile radius <upon founding a city>",
 					"Gain control over [Jungle] tiles in a [3]-tile radius <upon founding a city>",
 					"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
-					"[non-[Air]] units gain the [4cities special ability] promotion <hidden from users>",
+					"[non-[Air]] units gain the [Tree Hugger] promotion <hidden from users>",
 					"Instantly provides [2] [Weed]",
-					"Instantly provides [1] [Weed] <upon constructing [Science]>"
+					"Instantly provides [1] [Weed] <upon constructing [Science]>",
+					"Remove [Spores of the Forest] [in all cities] <upon turn end>"
 				],
 
 		"cities": ["Capital"],

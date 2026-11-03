@@ -13,7 +13,7 @@
 	{
 		"name": "Forester",
 		"unitType": "Sword",
-		"uniqueTo": "The 4 Cities",
+		"uniqueTo": "The Trees",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
