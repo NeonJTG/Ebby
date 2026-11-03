@@ -1,22 +1,4 @@
 [
-	
-	
-	{
-		"name": "Scientist Point",
-		"greatPersonPoints": {"Great Scientist": 1},
-		"uniques": ["Unbuildable", "Cannot be purchased"]
-	},
-	{
-		"name": "Move Capital",
-		"uniqueTo": "The 4 Cities",
-		"cost": 0,
-		"uniques": [
-			"Remove [Palace] [in all cities]",
-			"Gain a free [Palace] [in this city]",
-			"Remove [Move Capital] [in all cities]"
-		
-		]
-	},
 	{
 		"name": "Spy School",
 		"uniqueTo": "Deltarune",

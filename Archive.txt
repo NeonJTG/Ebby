@@ -144,3 +144,41 @@
             "[This Unit] gets a name from the [Scientist] group",
             "Great Person - [Science]", "Unbuildable", "Uncapturable"],
 		"movement": 2
+		,
+	{
+		"name": "Forester",
+		"unitType": "Scout",
+		"uniqueTo": "The 4 Cities",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 8,
+		"cost": 45,
+		"requiredTech": "Agriculture",
+		"uniques": 
+		[
+			"Never appears as a Barbarian unit",
+			"May enter foreign tiles without open borders",
+			"Can pass through impassable tiles"
+		],
+		"promotions": ["Scouting I"],
+		"attackSound": "nonmetalhit"
+	}
+	,
+	{
+		"name": "Move Capital",
+		"uniqueTo": "The 4 Cities",
+		"cost": 0,
+		"uniques": [
+			"Remove [Palace] [in all cities]",
+			"Gain a free [Palace] [in this city]",
+			"Remove [Move Capital] [in all cities]"
+		
+		]
+	},
+
+	
+	{
+		"name": "Scientist Point",
+		"greatPersonPoints": {"Great Scientist": 1},
+		"uniques": ["Unbuildable", "Cannot be purchased"]
+	},

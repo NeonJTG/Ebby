@@ -12,21 +12,16 @@
 	},
 	{
 		"name": "Forester",
-		"unitType": "Scout",
+		"unitType": "Sword",
 		"uniqueTo": "The 4 Cities",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
-		"cost": 45,
+		"cost": 40,
 		"requiredTech": "Agriculture",
-		"uniques": 
-		[
-			"Never appears as a Barbarian unit",
-			"May enter foreign tiles without open borders",
-			"Can pass through impassable tiles"
-		],
-		"promotions": ["Scouting I"],
+		"obsoleteTech": "Metal Casting",
+		"promotions": ["Drill I", "Drill II"],
+		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit"
-	}
-	
+	}	
 ]
