@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Sorcery",
+		 	  "text":"Shadow Wizard Money Gang! We love casting spells",
+        "choices":[
+        {
+          "text": "A coin!",
+          "uniques": [
+            "Gain [1] [Gold]"
+        ]
+        },
+        {
+          "text": "Invisibility",
+          "uniques": ["[This Unit] gains the [Invisible] status for [5] turn(s)"]
+        },
+        {
+          "text": "Do Fuck all",
+          "uniques": ["Turn this tile into a [Coast] tile <hidden from users>"]
+        },
+        {
+          "text": "Dilly-Dally",
+          "uniques": ["Turn this tile into a [Mountain] tile <hidden from users>"]
+        }
+      ]
+    }
+]

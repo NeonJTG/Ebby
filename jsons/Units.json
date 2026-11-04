@@ -11,17 +11,16 @@
 		"cost": 70
 	},
 	{
-		"name": "Forester",
-		"unitType": "Sword",
-		"uniqueTo": "The Trees",
-		"replaces": "Warrior",
-		"movement": 2,
-		"strength": 8,
-		"cost": 40,
-		"requiredTech": "Agriculture",
-		"obsoleteTech": "Metal Casting",
-		"promotions": ["Drill I", "Drill II"],
-		"upgradesTo": "Swordsman",
-		"attackSound": "nonmetalhit"
+		"name": "Wizard",
+		"uniqueTo": "The Forest",
+		"replaces": "Great Scientist",
+		"unitType": "Civilian",
+		"uniques": [
+			"Triggers a [Sorcery] event <[3] times>",
+            "Can instantly construct a [Academy] improvement <once>",
+            "Is part of Great Person group [Great Person]",
+            "[This Unit] gets a name from the [Scientist] group",
+            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+		"movement": 3
 	}	
 ]

@@ -1,19 +1,24 @@
 [
 	{
-		"name": "Tree Hugger",
+		"name": "Forester",
 		"uniques": [
       		"Invisible to non-adjacent units <in [Forest] tiles>", "Invisible to non-adjacent units <in [Jungle] tiles>",
 			"Double movement in [Forest]", "Double movement in [Jungle]",
 			"[+10] HP when healing <in [Forest] tiles>",
 			"[+10] HP when healing <in [Jungle] tiles>",
-			"May enter foreign tiles without open borders",
-			"[This Unit] loses the [Spores] promotion <upon turn end>"
+			"[This Unit] loses the [Spores] promotion <upon turn end> <hidden from users>"
         ]
 	},
 	{
 		"name": "Spores",
 		"uniques": [
-			"Turn this tile into a [Forest] tile <costs [1] [Weed]> <with [1] priority>"
+			"Turn this tile into a [Forest] tile <costs [1] [Weed]> <with [150] priority>"
+        ]
+	},
+	{
+		"name": "Invisible",
+		"uniques": [
+      		"Invisible to others"
         ]
 	}
 ]

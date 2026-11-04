@@ -36,7 +36,7 @@
 		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch 1", "Scheming eunuch 2", "That cardinal we killed that one time", "Penny", "Lude"]
 	},
 	{
-		"name": "The Trees",
+		"name": "The Forest",
 		"leaderName": "Wise Old Oak",
 		"adjective": ["arboreal"],
 		"startBias": ["Jungle"],
@@ -57,19 +57,23 @@
         "outerColor": [155, 229, 100],
         "innerColor": [56, 56, 56],
 
-		"favoredReligion": "Christianity",
+		"favoredReligion": "Islam",
 
-		"uniqueName": "Go where I want to go, do what I want to do",
+		"uniqueName": "Smoke it? Probably wood.",
 		"uniques": ["[-99]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
-					"Notified of new Barbarian encampments",
-					"Gain control over [Forest] tiles in a [3]-tile radius <upon founding a city>",
-					"Gain control over [Jungle] tiles in a [3]-tile radius <upon founding a city>",
-					"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
-					"[non-[Air]] units gain the [Tree Hugger] promotion <hidden from users>",
-					"Instantly provides [2] [Weed]",
-					"Instantly provides [1] [Weed] <upon constructing [Science]>",
-					"Remove [Spores of the Forest] [in all cities] <upon turn end>"
+					"Comment [All units ignore terrain cost when moving into tiles with forests and jungles.]",
+					"Comment [All units heal +10 hp in forest and jungle tiles.]",
+					"Comment [All units are invisible to enemies in forest and jungle tiles unless adjacent.]",
+					"Comment [When founding a city, gain control of [Jungle] and [Forest] tiles within a 3 tile radius]",
+					"Comment [When constructing a [Science] building, gain one [Weed]. Weed can be spent to grow forests on tiles by spreading spores through units.]",
+					"Notified of new Barbarian encampments <hidden from users>",
+					"Gain control over [Forest] tiles in a [3]-tile radius <upon founding a city> <hidden from users>",
+					"Gain control over [Jungle] tiles in a [3]-tile radius <upon founding a city> <hidden from users>",
+					"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel. <hidden from users>",
+					"[non-[Air]] units gain the [Forester] promotion <hidden from users>",
+					"Instantly provides [1] [Weed] <upon constructing [Science]> <hidden from users>",
+					"Remove [Spores of the Forest] [in all cities] <upon turn end> <hidden from users>"
 				],
 
 		"cities": ["Capital"],

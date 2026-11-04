@@ -15,15 +15,16 @@
 	},
 	{
 		"name": "Old Growth",
-		"uniqueTo": "The Trees",
+		"uniqueTo": "The Forest",
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"food": 1,
 		"turnsToBuild": 10,
 		"uniques": [
 			"[+1 Production]", 
-			"[+1 Production] <with [1] to [6] neighboring [Old Growth] tiles>",
-			"[+1 Production] <after discovering [Scientific Theory]> <in [Forest] tiles>",
-			"[+1 Science] <after adopting [Free Thought]> <in [Jungle] tiles>"
+			"[+1 Production] <with [2] to [6] neighboring [Old Growth] tiles>",
+			"[+1 Production] <in [Forest] tiles> <after discovering [Scientific Theory]>",
+			"[+1 Science] <in [Jungle] tiles> <after adopting [Free Thought]>",
+			"[+1 Food] <after discovering [Fertilizer]>"
 		],
 		"shortcutKey": "M"
 	}
