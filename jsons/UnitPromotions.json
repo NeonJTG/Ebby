@@ -17,15 +17,15 @@
 	{
 		"name": "Beserk",
 		"uniques": [
-			"Before engaging in combat performs an extra ranged attack with [20]% of melee combat strength <in [Forest] tiles> ",
-			"Before engaging in combat performs an extra ranged attack with [20]% of melee combat strength <in [Jungle] tiles> ",
+			"Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength <in [Forest] tiles> ",
+			"Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength <in [Jungle] tiles> ",
 			"[This Unit] gains [1] XP <upon turn end>",
 			"[This Unit] heals [5] HP <upon turn end>",
 			"[This Unit] heals [10] HP <upon turn end> <in [Forest] tiles>",
 			"[This Unit] heals [10] HP <upon turn end> <in [Jungle] tiles>",
 			"[-20]% Strength <when defending>",
 			"Can move after attacking",
-			"[1] Movement",
+			"[2] Movement",
 			"[-1] Sight"
         ]
 	},
