@@ -33,7 +33,7 @@
 			"Provides [1] [AntiLuxuryCounter] <when number of [Happiness] is less than [-800]> <hidden from users>"
 		],
 		"cities": ["Rename me"],
-		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch 1", "Scheming eunuch 2", "That cardinal we killed that one time", "Penny", "Lude"]
+		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch", "Cardinal Krozen (Undead)", "Penny", "Lude", "Once per week 6 hour dog"]
 	},
 	{
 		"name": "The Forest",
@@ -43,15 +43,15 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
 
-		"declaringWar": "BLOOD FOR THE BLOOD GOD!",
-		"attacked": "ayo?",
-		"defeated": "Im kms actually over this",
-		"introduction": "Is this the real life? is this just fantasy? caught in a landslide no escape from reality.",
+		"declaringWar": "FUCK BEING WISE!!! BLOOD FOR THE BLOOD GOD!!!!!",
+		"attacked": "Mmmmmm... No... Very Unwise...",
+		"defeated": "I was not wise enoug...",
+		"introduction": "I am very wise...",
 
-		"neutralHello": "Nver kys, life is awesime <3",
-		"hateHello": "kys actually",
+		"neutralHello": "Mmmmm... Is it wisdom you seek? For it is wisdom I have... You see... I am very wise...",
+		"hateHello": "Mmmmmm... Your actions have been... Very unwise...",
 
-		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
+		"tradeRequest": "Mmmmmmmmmmmmmmmmmmmmmmmmmm... It would be... Wise... To take this offer... For it was made... In wisdom...",
 
 
         "outerColor": [155, 229, 100],
@@ -59,8 +59,9 @@
 
 		"favoredReligion": "Islam",
 
-		"uniqueName": "Smoke it? Probably wood",
+		"uniqueName": "Natural Network",
 		"uniques": ["[-100]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
+                    "[-33]% Production when constructing [Millitary] units [in all cities]",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
 					"Notified of new Barbarian encampments",
 
@@ -79,8 +80,8 @@
 					"Remove [Spores of the Forest] [in all cities] <upon turn end> <hidden from users>"
 				],
 
-		"cities": ["Capital"],
-        "spyNames": ["One", "Two", "Three", "Four", "Kiki", "Mr. Breast", "Dog", "Sam", "Secret Dog", "Once per week 6 hour dog"]
+		"cities": ["Rename me"],
+        "spyNames": ["Unwise Young Beech", "Tree", "Pine Tree", "Spruce Tree", "Birch Tree", "Fake Tree (5G Tower)", "Dog", "Secret Tree", "Secret Dog"]
 
     }
 ]

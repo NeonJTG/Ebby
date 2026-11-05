@@ -17,13 +17,14 @@
 	{
 		"name": "Beserker",
 		"uniques": [
-			"[+33]% Strength <in [Forest] tiles> <when attacking>",
-			"[+33]% Strength <in [Jungle] tiles> <when attacking>",
-			"[This Unit] gains [3] XP <upon turn end>",
+			"[+50]% Strength <in [Forest] tiles> <when attacking>",
+			"[+50]% Strength <in [Jungle] tiles> <when attacking>",
+			"[This Unit] gains [1] XP <upon turn end>",
+			"[This Unit] heals [5] HP <upon turn end>",
 			"[This Unit] heals [10] HP <upon turn end> <in [Forest] tiles>",
 			"[This Unit] heals [10] HP <upon turn end> <in [Jungle] tiles>",
-			"[-15]% Strength <when defending>",
-			"Ignores Zone of Control",
+			"[-20]% Strength <when defending>",
+			"Ignores Zone of Control", "Can move after attacking",
 			"[1] Movement"
         ]
 	},

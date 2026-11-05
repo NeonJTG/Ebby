@@ -6,9 +6,23 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Spores of the Forest
   rotate: false
-  xy: 900, 368
+  xy: 474, 160
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Spy School
+  rotate: false
+  xy: 476, 268
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Art Gallery
+  rotate: false
+  xy: 366, 72
+  size: 80, 80
+  orig: 80, 80
   offset: 0, 0
   index: -1
 ImprovementIcons/Old Growth
@@ -25,30 +39,51 @@ LeaderIcons/Wise Old Oak
   orig: 256, 256
   offset: 0, 0
   index: -1
+NationIcons/Deltarune
+  rotate: false
+  xy: 212, 58
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
 NationIcons/The Forest
   rotate: false
-  xy: 476, 268
+  xy: 684, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 ResourceIcons/Weed
   rotate: false
-  xy: 684, 260
+  xy: 582, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Art Gallery
+  rotate: false
+  xy: 798, 196
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 UnitIcons/Armored Worker
   rotate: false
-  xy: 684, 368
+  xy: 892, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wizard
   rotate: false
-  xy: 792, 260
+  xy: 690, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Beserk
+  rotate: false
+  xy: 892, 260
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -62,7 +97,7 @@ UnitPromotionIcons/Forester
   index: -1
 UnitPromotionIcons/Spores
   rotate: false
-  xy: 792, 368
+  xy: 366, 160
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

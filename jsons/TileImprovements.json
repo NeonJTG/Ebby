@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Art Academy",
+		"name": "Art Gallery",
 		"uniqueTo": "Deltarune",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
