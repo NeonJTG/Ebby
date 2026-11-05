@@ -22,16 +22,16 @@
 		"uniqueName": "Consumerism",
 		"uniques": [
 			"Comment [[+20]% [Gold] [in capital] for each type of [Luxury resource]]",
-			"May buy [Wonder] buildings with [Culture] [in capital]",
+			"May buy [Wonder] buildings with [Culture] for [1] times their normal Production cost <in [Capital] cities>",
 			"Gain an extra spy <upon entering the [Medieval era]>",
-			"[-45]% Golden Age length",
+			"[-33]% Golden Age length",
 
-			"[1000] Happiness from each type of luxury resource <hidden from users>",
+			"[500] Happiness from each type of luxury resource <hidden from users>",
 			"[+20]% [Gold] [in capital] <for every [max([[LuxuryCounter]-[AntiLuxuryCounter]],0)]> <hidden from users>",
-			"[-1000 Happiness] <for every [LuxuryCounter]> <hidden from users>",
-			"[+1000 Happiness] <for every [AntiLuxuryCounter]> <hidden from users>",
-			"Provides [1] [LuxuryCounter] <when number of [Happiness] is more than [800]> <hidden from users>",
-			"Provides [1] [AntiLuxuryCounter] <when number of [Happiness] is less than [-800]> <hidden from users>"
+			"[-500 Happiness] <for every [LuxuryCounter]> <hidden from users>",
+			"[+500 Happiness] <for every [AntiLuxuryCounter]> <hidden from users>",
+			"Provides [1] [LuxuryCounter] <when number of [Happiness] is more than [400]> <hidden from users>",
+			"Provides [1] [AntiLuxuryCounter] <when number of [Happiness] is less than [-400]> <hidden from users>"
 		],
 		"cities": ["Rename me"],
 		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch", "Cardinal Krozen (Undead)", "Penny", "Lude", "Once per week 6 hour dog"]

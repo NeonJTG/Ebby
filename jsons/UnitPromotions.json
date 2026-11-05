@@ -25,7 +25,8 @@
 			"[This Unit] heals [10] HP <upon turn end> <in [Jungle] tiles>",
 			"[-20]% Strength <when defending>",
 			"Can move after attacking",
-			"[1] Movement"
+			"[1] Movement",
+			"[-1] Sight"
         ]
 	},
 	{
