@@ -3,7 +3,7 @@
 		"name": "Deltarune",
 		"leaderName": "Spamton G. Spamton",
 		"adjective": ["Thrane"],
-		"startBias": ["Snow"],
+		"startBias": ["Marble"],
 		"preferredVictoryType": "Scientific",
 
 		"declaringWar": "THIS demon wants the BLOOD of SOLDIERSSSSS!",
@@ -59,19 +59,22 @@
 
 		"favoredReligion": "Islam",
 
-		"uniqueName": "Smoke it? Probably wood.",
-		"uniques": ["[-99]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
+		"uniqueName": "Smoke it? Probably wood",
+		"uniques": ["[-100]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
-					"Comment [All units ignore terrain cost when moving into tiles with forests and jungles.]",
-					"Comment [All units heal +10 hp in forest and jungle tiles.]",
-					"Comment [All units are invisible to enemies in forest and jungle tiles unless adjacent.]",
+					"Notified of new Barbarian encampments",
+
+					"Comment [Land units ignore terrain cost when moving into tiles with forests and jungles, and use them as roads in friendly territory.]",
+					"Comment [Land units heal +10 hp in forest and jungle tiles.]",
+					"Comment [Land units are invisible to non-adjacent enemies in forest and jungle tiles.]",
+
 					"Comment [When founding a city, gain control of [Jungle] and [Forest] tiles within a 3 tile radius]",
 					"Comment [When constructing a [Science] building, gain one [Weed]. Weed can be spent to grow forests on tiles by spreading spores through units.]",
-					"Notified of new Barbarian encampments <hidden from users>",
+
 					"Gain control over [Forest] tiles in a [3]-tile radius <upon founding a city> <hidden from users>",
 					"Gain control over [Jungle] tiles in a [3]-tile radius <upon founding a city> <hidden from users>",
 					"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel. <hidden from users>",
-					"[non-[Air]] units gain the [Forester] promotion <hidden from users>",
+					"[Land] units gain the [Forester] promotion <hidden from users>",
 					"Instantly provides [1] [Weed] <upon constructing [Science]> <hidden from users>",
 					"Remove [Spores of the Forest] [in all cities] <upon turn end> <hidden from users>"
 				],

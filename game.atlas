@@ -1,40 +1,68 @@
 
 game.png
-size: 512, 512
+size: 1024, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Spores of the Forest
   rotate: false
-  xy: 212, 4
+  xy: 900, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Old Growth
   rotate: false
-  xy: 4, 12
+  xy: 268, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 LeaderIcons/Wise Old Oak
   rotate: false
-  xy: 4, 220
+  xy: 4, 212
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-NationIcons/The Trees
+NationIcons/The Forest
   rotate: false
-  xy: 268, 276
+  xy: 476, 268
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-UnitIcons/Forester
+ResourceIcons/Weed
   rotate: false
-  xy: 212, 112
+  xy: 684, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Worker
+  rotate: false
+  xy: 684, 368
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wizard
+  rotate: false
+  xy: 792, 260
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Forester
+  rotate: false
+  xy: 4, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Spores
+  rotate: false
+  xy: 792, 368
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

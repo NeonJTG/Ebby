@@ -1,0 +1,14 @@
+{
+    "name": "Global Uniques",
+    "uniques": [
+        "Cannot build [Apollo Program] buildings <for [AI player] Civilizations>",
+        "Cannot build [Utopia Project] buildings <for [AI player] Civilizations>",
+        "Cannot build [United Nations] buildings <for [AI player] Civilizations>",
+        "Cannot build [Manhattan Project] buildings <for [AI player] Civilizations>",
+        "[+100]% unhappiness from the number of cities <for [AI player] Civilizations>"
+        
+    ],
+    "civilopediaText": [
+        {"text": "I don't want the AI to win"}
+    ]
+}
