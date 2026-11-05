@@ -9,3 +9,17 @@
 		"hateHello": "Haven't you had enough?",
 
 		"tradeRequest": "This is the greatest trade deal in the history of trade deals, maybe ever.",
+
+
+
+		"declaringWar": "FUCK BEING WISE!!! BLOOD FOR THE BLOOD GOD!!!!!",
+		"attacked": "Mmmmmm... No... Very Unwise...",
+		"defeated": "I was not wise enoug...",
+		"introduction": "I am very wise...",
+
+		"neutralHello": "Mmmmm... Is it wisdom you seek? For it is wisdom I have... You see... I am very wise...",
+		"hateHello": "Mmmmmm... Your actions have been... Very unwise...",
+
+		"tradeRequest": "Mmmmmmmmmmmmmmmmmmmmmmmmmm... It would be... Wise... To take this offer... For it was made... In wisdom...",
+
+

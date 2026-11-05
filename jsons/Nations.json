@@ -21,12 +21,13 @@
 		"innerColor": [248, 236, 218],
 		"uniqueName": "Consumerism",
 		"uniques": [
-			"Comment [[+25]% [Gold] [in capital] for each type of [Luxury resource]]",
+			"Comment [[+20]% [Gold] [in capital] for each type of [Luxury resource]]",
 			"May buy [Wonder] buildings with [Culture] [in capital]",
 			"Gain an extra spy <upon entering the [Medieval era]>",
+			"[-45]% Golden Age length",
 
 			"[1000] Happiness from each type of luxury resource <hidden from users>",
-			"[+25]% [Gold] [in capital] <for every [max([[LuxuryCounter]-[AntiLuxuryCounter]],0)]> <hidden from users>",
+			"[+20]% [Gold] [in capital] <for every [max([[LuxuryCounter]-[AntiLuxuryCounter]],0)]> <hidden from users>",
 			"[-1000 Happiness] <for every [LuxuryCounter]> <hidden from users>",
 			"[+1000 Happiness] <for every [AntiLuxuryCounter]> <hidden from users>",
 			"Provides [1] [LuxuryCounter] <when number of [Happiness] is more than [800]> <hidden from users>",
@@ -43,15 +44,6 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
 
-		"declaringWar": "FUCK BEING WISE!!! BLOOD FOR THE BLOOD GOD!!!!!",
-		"attacked": "Mmmmmm... No... Very Unwise...",
-		"defeated": "I was not wise enoug...",
-		"introduction": "I am very wise...",
-
-		"neutralHello": "Mmmmm... Is it wisdom you seek? For it is wisdom I have... You see... I am very wise...",
-		"hateHello": "Mmmmmm... Your actions have been... Very unwise...",
-
-		"tradeRequest": "Mmmmmmmmmmmmmmmmmmmmmmmmmm... It would be... Wise... To take this offer... For it was made... In wisdom...",
 
 
         "outerColor": [155, 229, 100],
