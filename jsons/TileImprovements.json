@@ -19,13 +19,15 @@
 		"uniqueTo": "The Forest",
 		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
 		"food": 1,
-		"turnsToBuild": 10,
+		"turnsToBuild": 5,
 		"uniques": [
-			"[+1 Production]", 
-			"[+1 Production] <with [2] to [6] neighboring [Old Growth] tiles>",
+			"[+1 Production] <with [1] to [2] neighboring [Old Growth] tiles> <after discovering [Chemistry]>", 
+			"[+1 Production] <with [3] to [6] neighboring [Old Growth] tiles>",
+			"[+1 Food] <with [3] to [6] neighboring [Old Growth] tiles> <after discovering [Civil Service]>",
+			"[+1 Food] <with [1] to [2] neighboring [Old Growth] tiles> <after discovering [Fertilizer]>",
 			"[+1 Production] <in [Forest] tiles> <after discovering [Scientific Theory]>",
 			"[+1 Science] <in [Jungle] tiles> <after adopting [Free Thought]>",
-			"[+1 Food] <after discovering [Fertilizer]>"
+			"Improves [Luxury] resource in this tile"
 		],
 		"shortcutKey": "M"
 	}

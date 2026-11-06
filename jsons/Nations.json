@@ -64,8 +64,8 @@
 					"Comment [When founding a city, gain control of [Jungle] and [Forest] tiles within a 3 tile radius]",
 					"Comment [When constructing a [Science] building, gain one [Weed]. Weed can be spent to grow forests on tiles by spreading spores through units.]",
 
-					"Gain control over [Forest] tiles in a [3]-tile radius <upon founding a city> <hidden from users>",
-					"Gain control over [Jungle] tiles in a [3]-tile radius <upon founding a city> <hidden from users>",
+					"Gain control over [Forest] tiles in a [2]-tile radius <upon founding a city> <hidden from users>",
+					"Gain control over [Jungle] tiles in a [2]-tile radius <upon founding a city> <hidden from users>",
 					"Suppress warning [All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.]",
 					"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel. <hidden from users>",
 					"[Land] units gain the [Forester] promotion <hidden from users>",
