@@ -55,17 +55,16 @@
 		"uniques": ["[-100]% Production when constructing [non-[National Wonder]] wonders [in all cities]",
                     "[-33]% Production when constructing [Military] units [in all cities]",
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
-					"Notified of new Barbarian encampments",
 
 					"Comment [Land units ignore terrain cost when moving into tiles with forests and jungles, and use them as roads in friendly territory.]",
 					"Comment [Land units heal +10 hp in forest and jungle tiles.]",
 					"Comment [Land units are invisible to non-adjacent enemies in forest and jungle tiles.]",
 
-					"Comment [When founding a city, gain control of [Jungle] and [Forest] tiles within a 3 tile radius]",
+					"Comment [When founding a city, gain control of [Jungle] and [Forest] tiles within a ~2 tile radius]",
 					"Comment [When constructing a [Science] building, gain one [Weed]. Weed can be spent to grow forests on tiles by spreading spores through units.]",
 
 					"Gain control over [Forest] tiles in a [2]-tile radius <upon founding a city> <hidden from users>",
-					"Gain control over [Jungle] tiles in a [2]-tile radius <upon founding a city> <hidden from users>",
+					"Gain control over [Jungle] tiles in a [3]-tile radius <upon founding a city> <hidden from users>",
 					"Suppress warning [All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.]",
 					"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel. <hidden from users>",
 					"[Land] units gain the [Forester] promotion <hidden from users>",
