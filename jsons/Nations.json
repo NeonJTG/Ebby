@@ -3,7 +3,7 @@
 		"name": "Deltarune",
 		"leaderName": "Spamton G. Spamton",
 		"adjective": ["Thrane"],
-		"startBias": ["Marble"],
+		"startBias": ["Mountain"],
 		"preferredVictoryType": "Scientific",
 
 		"declaringWar": "THIS demon wants the BLOOD of SOLDIERSSSSS!",
@@ -57,8 +57,8 @@
 					"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
 
 					"Comment [Land units ignore terrain cost when moving into tiles with forests and jungles, and use them as roads in friendly territory.]",
-					"Comment [Land units heal +10 hp in forest and jungle tiles.]",
 					"Comment [Land units are invisible to non-adjacent enemies in forest and jungle tiles.]",
+					"Comment [Land units go into a blind rage upon killing an enemy]",
 
 					"Comment [When founding a city, gain control of [Jungle] and [Forest] tiles within a ~2 tile radius]",
 					"Comment [When constructing a [Science] building, gain one [Weed]. Weed can be spent to grow forests on tiles by spreading spores through units.]",

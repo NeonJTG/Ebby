@@ -27,7 +27,13 @@
 			"[+1 Food] <with [1] to [2] neighboring [Old Growth] tiles> <after discovering [Fertilizer]>",
 			"[+1 Production] <in [Forest] tiles> <after discovering [Scientific Theory]>",
 			"[+1 Science] <in [Jungle] tiles> <after adopting [Free Thought]>",
-			"Improves [Luxury] resource in this tile"
+			"Improves [Deer] resource in this tile <hidden from users>",
+			"Improves [Furs] resource in this tile <hidden from users>",
+			"Improves [Dyes] resource in this tile <hidden from users>",
+			"Improves [Silk] resource in this tile <hidden from users>",
+			"Improves [Spices] resource in this tile <hidden from users>",
+			"Improves [Citrus] resource in this tile <hidden from users>",
+			"Improves [Truffles] resource in this tile <hidden from users>"
 		],
 		"shortcutKey": "M"
 	}
