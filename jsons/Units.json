@@ -2,7 +2,7 @@
 	{
 		"name": "Armored Worker",
 		"unitType": "Civilian",
-		"uniqueTo": "Deltarune",
+		"uniqueTo": "The One Percent",
 		"replaces": "Worker",
 		"movement": 3,
 		"strength": 5,

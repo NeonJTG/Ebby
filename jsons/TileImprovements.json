@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Art Gallery",
-		"uniqueTo": "Deltarune",
+		"uniqueTo": "The One Percent",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 7,

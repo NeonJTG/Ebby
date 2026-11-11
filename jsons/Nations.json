@@ -1,25 +1,38 @@
 [
 	{
-		"name": "Deltarune",
-		"leaderName": "Spamton G. Spamton",
-		"adjective": ["Thrane"],
+		"name": "The One Percent",
+		"leaderName": "Her Eminence Sir Dame Nadeline Esq., PhD.",
+		"adjective": ["percentile"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Scientific",
 
-		"declaringWar": "THIS demon wants the BLOOD of SOLDIERSSSSS!",
-		"attacked": "DAMN! Did NOT know we had BEEF like THAT.",
-		"defeated": "It's over. It's so over. I declared WAR on this nation, and would never guess what next. (GONE WRONG).(GONE HISTORICAL).",
-		"introduction": "HELLO. Let's make FRIENDS in this WORLD.",
+		"startIntroPart1": "You are in the presence of a being far above this plane, the supreme leader of The One Percent. Prostate yourself before me!",
+		"startIntroPart2": "We will have riches you can’t even comprehend. Luxury out of the bounds of existence! Generational art and culture produced by talent unfathomable. We will prove our sophistication is the key to Utopia!",
+		
+		"declaringWar": "Prepare to be GENTRIFIED!!!!!",
+		"attacked": "FUCK you. You think this is some fucking joke huh. You dare attack My GLORIOUS nation under the watchful eye of Me. What about those furs i gave you. Or the crabs I took from right under your nose. I hope you enjoy the entirety of these next five turns. See you…one the Battlefield.",
+		"defeated": "Did you enjoy your five turns. Yeah ok.",
+		"introduction": "HELLOOOOO THERE. WELCOME. To my world. And you’re just living in it. Yes. I have riches a plenty, but for a Price. Now, are You willing to pay?",
+		
+		"neutralHello": "Whats up gangalang. Lets grind up some fair diplomatic deals TODAY!!",
+		"neutralLetsHearIt": ["This vexes me.","You wanna do WHAT to my people?!", "You’re going to request a potion of myriches, aren’t you? Ok."],
+		"neutralNo": ["YO. That is not what I expected.","You’re going to do WHAT to my whales?!","Somebody must’ve gotten the throne only by inheritance. #LOL #SHADE"],
+		"neutralYes": ["Two words: Fuck. Yes.","I probably only agreed because you asked me to. But fine. Here.","Now THIS is what I call a fair diplomatic deal."],
 
-		"neutralHello": "HELLO.",
-		"hateHello": "What do YOU want?!",
+		"hateHello": "Whats up evilgang. Gang where we hate each other. where we are eternal enemies. Wait actually can we make amends wait please can we be friends please ple",
+		"hateLetsHearIt": ["So NOW you want my riches. Ok.","My Benevolence compels me to hear your pleas.","You better not be using meta strategy in our diplomatic relations."],
+		"hateNo": ["And so our animosity continues!","Next time you should use meta strategy in our diplomatic relations.","Maybe there is hope for us... NOT! LOL"],
+		"hateYes": ["Ok so somebody is definitely using meta strategy in our diplomatic relations.","Hardest deal of my LIFE.","Maybe there is hope for us..."],
+		
+		"afterPeace": "FINALLY. I wasn’t gonna last much longer. The last two turns have been DEVASTATING for my 2 battleships 1 pikeman.",
+		"tradeRequest": "Wow. This is a rare occurrence. Enjoy it while it lasts, as it will never happen again! because you never have anything i would ever want. LOL",
+		"denounced": "The accusations of primitive lifeforms are beneath us. You dare throw around the name of Her Eminence Sir Dame Nadeline Esq., PhD.?! Such insolence. Your units will die in a great fire AND you’ll lose the elections AND I’m stealing tech at this very moment AND I have more policies than you GOODBYE.",
+		"declaringfriendship": "Dude, we are so like friends. But not friends tho. Can’t go that far yet.",
 
-		"tradeRequest": "TODAY I am EXPRESSING my GENEROSITY by trading with the likes of YOU.",
+		"outerColor": [59, 1, 89],
+		"innerColor": [242, 226, 189],
 
-
-		"outerColor": [35, 65, 82],
-		"innerColor": [248, 236, 218],
-		"uniqueName": "Consumerism",
+		"uniqueName": "Hoarder of Quarters",
 		"uniques": [
 			"Comment [[+20]% [Gold] [in capital] for each type of [Luxury resource]]",
 			"May buy [Wonder] buildings with [Culture] for [1] times their normal Production cost <in [Capital] cities>",
@@ -34,7 +47,7 @@
 			"Provides [1] [AntiLuxuryCounter] <when number of [Happiness] is less than [-400]> <hidden from users>"
 		],
 		"cities": ["Rename me"],
-		"spyNames": ["DU-I 36", "Milly", "Scheming enunuch", "Cardinal Krozen (Undead)", "Penny", "Lude", "Once per week 6 hour dog"]
+		"spyNames": ["DU-I", "Milly", "Cardinal Krozen (Undead)", "Penny", "Lude", "Stéphane Breitwieser", "Damon Albarn", "Gareth David lead singer of los campesinos"]
 	},
 	{
 		"name": "The Forest",
