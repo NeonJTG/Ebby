@@ -13,14 +13,15 @@
 	{
 		"name": "Wizard",
 		"uniqueTo": "The Forest",
-		"replaces": "Great Scientist",
+		"replaces": "Great General",
 		"unitType": "Civilian",
 		"uniques": [
 			"Triggers a [Sorcery] event <[3] times>",
-            "Can instantly construct a [Academy] improvement <once>",
-            "Is part of Great Person group [Great Person]",
+            "Can instantly construct a [Citadel] improvement <once>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
             "[This Unit] gets a name from the [Scientist] group",
-            "Great Person - [Science]", "Unbuildable", "Uncapturable"],
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3
 	}	
 ]
