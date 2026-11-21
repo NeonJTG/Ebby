@@ -57,7 +57,15 @@
 		"preferredVictoryType": "Domination",
 		"personality": "Montezuma I",
 
+		"declaringWar": "FUCK BEING WISE!!! BLOOD FOR THE BLOOD GOD!!!!!",
+		"attacked": "Mmmmmm... No... Very Unwise...",
+		"defeated": "I was not wise enoug...",
+		"introduction": "I am very wise...",
 
+		"neutralHello": "Mmmmm... Is it wisdom you seek? For it is wisdom I have... You see... I am very wise...",
+		"hateHello": "Mmmmmm... Your actions have been... Very unwise...",
+
+		"tradeRequest": "Mmmmmmmmmmmmmmmmmmmmmmmmmm... It would be... Wise... To take this offer... For it was made... In wisdom...",
 
         "outerColor": [155, 229, 100],
         "innerColor": [56, 56, 56],
